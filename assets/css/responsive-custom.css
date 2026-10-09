@@ -1,0 +1,182 @@
+@media (max-width:576px) {
+    /* home banner  */
+    .hero-area{
+        padding: 0% !important;
+        height: auto;
+    }
+    .feature-1.row{
+        padding: 20px;
+    }
+    .culture-area .hlp-content img{
+        width: 20px;
+    }
+    /* About Us Section */
+    .help-center-area .hlp-center-content{
+        padding-left: 0px;
+    }
+
+    .title, .breadcumb-area .title{
+        font-size: 30px;
+    }
+
+    .why-area.service .hlp-center-content{
+        padding-top: 20px !important;
+    }
+    .service-title{
+        font-size: 40px;
+    }
+
+    .service-item{
+        height: 300px;
+    }
+    .hlp-center-thumb {
+        height: 21em !important;
+    }
+}
+@media (min-width:576px) {
+    .feature-1.row{
+        padding: 20px;
+    }
+    .culture-area .hlp-content img{
+        width: 20px;
+    }
+    /* About Us Section */
+    .help-center-area .hlp-center-content{
+        padding-left: 0px;
+    }
+
+
+    .title, .breadcumb-area .title{
+        font-size: 30px;
+    }
+
+    .why-area.service .hlp-center-content{
+        padding-top: 20px !important;
+    }
+    .service-title{
+        font-size: 40px;
+    }
+}
+
+@media (min-width:768px) {
+    /* About Us Section */
+    .help-center-area .hlp-center-content{
+        padding-left: 0px;
+    }
+    .hlp-center-thumb {
+        margin-bottom: 0px;
+        height: 40em !important;
+    }
+
+    .px-p-md-10{
+        padding-left: 10% !important;
+        padding-right: 10% !important;
+    }
+
+    /* Features Section */
+    /* .feature-area {
+        margin-top: -136px;
+    } */
+    .single-feature.col-md-6{
+        flex: 0 0 48% !important;
+    }
+    .single-feature{
+        margin: 16px 0px;
+    }
+
+
+    /* Service SEction  */
+    .service-item{
+        height: 309px;
+    }
+
+    .service-area .vkp-button{
+        width: 65%;
+    }
+
+
+    /* Testimonial  */
+    .single-testimonial{
+        padding: 25px 0;
+    }
+    .single-testimonial .content{
+        padding: 0% 26px;
+    }
+    .single-testimonial .content p{
+        margin: 14px 0px;
+    }
+    .single-testimonial .icon {
+        bottom: -125px;
+    }
+
+    /* Culture Section */
+    .culture-area {
+        padding: 26px 0px 1px;
+    }
+    .experts-area .hlp-content{
+        padding: 0px;
+        padding-left: 25px;
+    }
+    .experts-area .hlp-team .team{
+        padding: 4px;
+    }
+    .title, .breadcumb-area .title{
+        font-size: 39px;
+
+    }
+    .service-title{
+        font-size: 55px;
+    }
+
+    .why-area.service .hlp-center-content{
+        padding-top: 20px !important;
+    }
+
+}
+
+@media (min-width:992px) {
+    .hlp-center-thumb {
+        height: auto !important;
+    }
+    .single-feature.col-lg-4{
+        flex: 0 0 49% !important;
+        max-width: 32% !important;
+    }
+    .breadcumb-area .title{
+        font-size: 62px;
+
+    }
+
+    .why-area.service .hlp-center-content{
+        padding-top: 20px !important;
+    }
+
+    .service-title{
+        font-size: 62px;
+    }
+}
+
+@media (min-width:1200px) {
+    .help-center-area{
+        padding-bottom: 100px;
+    }
+    .help-center-area .hlp-center-content{
+        padding: 5rem 0px 0px 3rem;
+
+    }
+
+
+    .culture-area {
+        padding: 100px 0px 80px;
+    }
+
+
+    .feature-area {
+        padding: 0px 0px 90px 0px;
+    }
+
+    .experts-area .hlp-team .team{
+        padding: 0px 20px;
+    }
+
+}
